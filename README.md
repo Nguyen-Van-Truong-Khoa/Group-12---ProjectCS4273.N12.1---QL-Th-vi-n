@@ -1,3 +1,5 @@
+Team: 6
+
 Participants:
 
 - Leader/Member: [Nguyễn Văn Trường Khoa - 20521472]
